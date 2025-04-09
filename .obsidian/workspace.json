@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "750ed48b5bff5c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd03976d582543c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11b227ded4d1030c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AVALORA/ALCANCE INICIAL/202210_6577 [OHLA] OES Documentación funcional – revisión de aplicación (Informes).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "202210_6577 [OHLA] OES Documentación funcional – revisión de aplicación (Informes)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c4ed7f8c600b541",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8a5f214160d53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e30dd318794af3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "4ebb0dbb5368d658",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "cb0f5b3ef5bc2cb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39e68e354ab57646",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fd57d513cb24ce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c4b2b892affa199",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PERSONAL/Sin título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título"
+            }
+          },
+          {
+            "id": "02bac78c05c3e165",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PERSONAL/Sin título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Sin título"
+            }
+          },
+          {
+            "id": "6bc7e6621db9cf78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5e5aedd58bdc736c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PERSONAL/Sin título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sin título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9e30dd318794af3a",
+  "lastOpenFiles": [
+    "PERSONAL/PAGINAS WEB.md",
+    "AVALORA/ALCANCE INICIAL/202210_6577 [OHLA] OES Documentación funcional – revisión de aplicación (Informes).pdf",
+    "AVALORA/ACCESOS.md",
+    "PERSONAL/PAGOS MENSUALES/LUZ MARZO-PENDIENTE.pdf",
+    "PERSONAL/PAGOS MENSUALES/LUZ MARZO.pdf",
+    "PERSONAL/PAGOS MENSUALES",
+    "PERSONAL/CURRICULUM VITAE/CV_LUISMENDOZA.pdf",
+    "PERSONAL/CURRICULUM VITAE/LUISMENDOZA_CV_4 (3).pdf",
+    "PERSONAL/CURRICULUM VITAE",
+    "PERSONAL/Nueva carpeta",
+    "AVALORA/NUEVO ALCANCE/202307_6886 CA-I OHLA Gestión de licitaciones en España v2.4.1 Funcional (1) (2).docx",
+    "AVALORA/NUEVO ALCANCE/202307_6886 CA-I OHLA Gestión de licitaciones en España v2.4.1 Funcional (1) (2) 1.docx",
+    "PERSONAL/DOCUMENTOS RESIDENCIA/sorangel_foto.jpg",
+    "PERSONAL/DOCUMENTOS RESIDENCIA/FOTO_LUIS.jpg",
+    "PERSONAL/DOCUMENTOS RESIDENCIA/FOTO2.png",
+    "PERSONAL/FOTOS 001/IMG-20231224-WA0040.jpg",
+    "PERSONAL/FOTOS 001/IMG-20231224-WA0042.jpg",
+    "PERSONAL/FOTOS 001/IMG-20231016-WA0044.jpg",
+    "PERSONAL/FOTOS 001/IMG-20231011-WA0042.jpg",
+    "PERSONAL/FOTOS 001/IMG-20231011-WA0039.jpg",
+    "PERSONAL/FOTOS 001/IMG-20241017-WA0000.jpg",
+    "PERSONAL/FOTOS 001/IMG-20241013-WA0010.jpg",
+    "Sin título.md",
+    "Sin título.canvas",
+    "PERSONAL.md"
+  ]
+}

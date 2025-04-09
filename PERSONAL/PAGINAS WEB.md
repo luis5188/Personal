@@ -1,0 +1,12 @@
+
+[CURRICULUM ](https://www.micvideal.es/)(SE INGRESA CON LA CREDENCIALES DE GOOGLE)
+
+[TECNO EMPLEO.COM ](https://www.tecnoempleo.com/)(SE INGRESA CON LA CREDENCIALES DE GOOGLE)
+
+[INFO JOBS](https://www.infojobs.net/)(SE INGRESA CON LA CREDENCIALES DE GOOGLE)
+
+GITHUB
+
+luis5188
+mendoza19396135*
+
