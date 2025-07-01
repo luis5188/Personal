@@ -1,5 +1,13 @@
+
+
+BENITO: tkDsIr54
+
+JOSERRA:
+
+
+
 [GESPRO](http://gespro.avalora.com/Calendario/TimeEntries)
-	  luis.alfredo.mendoza@avalora.com
+	  luisalfredo.mendoza@avalora.com
 
 [RECURSOS HUMANOS](https://www.ohla-link.com/ )
 
@@ -15,6 +23,5 @@
 [SSRS](http://rspre01ohl.ohl.es/reports)
 		USER:
 		 PASSWORD:
-
 
 
