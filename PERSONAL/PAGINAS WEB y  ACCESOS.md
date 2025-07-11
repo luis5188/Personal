@@ -15,8 +15,6 @@ Mm19396135*
 *****
 *****
 *****
-*******
-********
 
 <font color="#ffff00">GITHUB</font>
 luis5188
@@ -29,3 +27,7 @@ mendoza19396135*
 
 luis.staff5188@gmail.com
 mendoza19396135*
+
+
+luis.mendoza88511@hotmail.com
+Sagitario07.

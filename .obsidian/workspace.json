@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PERSONAL/PAGINAS WEB.md",
+                "file": "PERSONAL/PAGINAS WEB y  ACCESOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PAGINAS WEB"
+              "title": "PAGINAS WEB y  ACCESOS"
             }
           },
           {
@@ -275,6 +275,9 @@
   },
   "active": "4770116f2c00284f",
   "lastOpenFiles": [
+    "PERSONAL/ACCESOS.md",
+    "AVALORA/ACCESOS.md",
+    "PERSONAL/PAGINAS WEB y  ACCESOS.md",
     "PERSONAL/python-3.13.5-amd64.exe",
     "PERSONAL/ScriptGithub/GitScriptObsidian/prueba.json",
     "PERSONAL/ScriptGithub/GitScriptObsidian/GtiObsidian.py",
@@ -284,8 +287,6 @@
     "PERSONAL/ScriptGithub.zip",
     "FORMACION/CURSOS PENDIENTES.md",
     "AVALORA/INFORME PRESENTACION/INFORME POR PRESENTACION.md",
-    "PERSONAL/ACCESOS.md",
-    "AVALORA/ACCESOS.md",
     "PERSONAL/rutas de viajes gratis castilla y leon.pdf",
     "PERSONAL/Sin confirmar 790287.crdownload",
     "PERSONAL/RESIDENCIA LADO B.jpeg",
@@ -293,7 +294,6 @@
     "PERSONAL/WhatsApp Image 2025-05-28 at 22.19.05 (1).jpeg",
     "PERSONAL/WhatsApp Image 2025-05-28 at 22.19.05.jpeg",
     "PERSONAL/HIPOTECA/N.I.E .pdf",
-    "PERSONAL/DOCUMENTOS RESIDENCIA/RESOLUCION.pdf",
     "PERSONAL/DOCUMENTOS RESIDENCIA/FOTO2.png",
     "PERSONAL/DOCUMENTOS RESIDENCIA/sorangel_foto.jpg",
     "FORMACION/API REST .NET 9 (EF DATABASE FIRST).md",
@@ -304,7 +304,6 @@
     "AVALORA/INFORME PRESENTACION/SQL.md",
     "AVALORA/ALCANCE INICIAL/PENDIENTES.md",
     "AVALORA/GESTION DEL DATO/ACCESOS.md",
-    "PERSONAL/PAGINAS WEB.md",
     "PENDIENTES.md",
     "AVALORA/PUBLICAR PRODUCCION.md",
     "PERSONAL/HIPOTECA/Nueva carpeta/5.jpeg",
